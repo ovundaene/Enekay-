@@ -1,0 +1,17 @@
+*{
+
+ margin: 0;
+ padding-bottom:  2%; 
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/mixed-race-alternative-woman-short-600w-1895397247.jpg);
+    background-repeat: no-repeat;
+    background: linear-gradient(rgba(255, 0, 0, 0.792),yellow, rgb(0, 0, 0)
+    );
+}
+grace{
+    color: aqua;
+    border: 5px solid red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ 

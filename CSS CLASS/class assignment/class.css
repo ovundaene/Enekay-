@@ -1,0 +1,50 @@
+*{
+    background-color: white;
+    background-image: https://www.shutterstock.com/image-photo/mixed-race-alternative-woman-short-600w-1895455855.jpg;
+   box-sizing:  border-box;
+   
+
+body{
+
+    background-color: red;
+background:  url("https://www.shutterstock.com/image-photo/mixed-race-alternative-woman-short-600w-1895455855.jpg") ;
+}
+.first {
+    border: 1px solid white;
+    background-color: red;   
+    width: 50%;
+    margin-bottom: 100px;
+    background-position: top right;
+    .first div {
+    background-color: green;
+    width: 50%;
+    background-image: ("https://media.istockphoto.com/id/1447181889/photo/happy-young-woman-working-in-nature.webp?b=1&s=612x612&w=0&k=20&c=cDxH-UUnmbdtKSEGLfrG_vaSKyz7ZO3uHozwcPe9aw0=")
+    background: linear-gradient(rgba(0, 0, 255, 0.601), rgba(0, 0, 255, 0.79))
+}
+.friday {
+height: 80vh;
+margin: 100px;
+background: linear-gradient(rgba(0, 0, 255, 0.768),rgba(255, 255, 255, 0.727));
+
+
+.last div{
+    width: 50%;
+    width: 50%;
+    height: 80vh
+    margin-bottom:30px;
+    background: url("https://images.freeimages.com/images/previews/add/golden-gate-1471075.jpg")
+
+
+child h2{
+    background-color: yellow;
+    width: 50%;
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    .child h2: :hover
+   color: green;
+}
+.friday{
+    background-color: blue;
+    width: 25%;
+    background-image: ("https://www.shutterstock.com/image-photo/mixed-race-alternative-woman-short-600w-1895455855.jpg"
