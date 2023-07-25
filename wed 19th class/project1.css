@@ -1,0 +1,81 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body
+font-family: arial,vel
+header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 5px 15px;
+background-color: rgba(0, 0, 0, 0.3);
+color: white;
+}
+.same-background {
+background: url("https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=600");
+background-repeat: no repeat;
+background-size: cover;
+background-position: center;
+
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+
+}
+    .icon{
+        width: 15px;
+        height: 15px;
+
+    }
+        nav{
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        
+
+        }
+        #tell{
+            margin-right: 5px;
+            front-weight: bold;
+            font-size: 1.1rem;
+
+        }
+        #progress{
+            font-size: 0.08rem;
+
+        }
+        nav a{
+            text-decoration: none;text-transform: uppercase;
+            font-size: 0.8rem;
+        }
+        select{
+            border: none;
+            background-color: transparent;
+            color: white;
+
+        }
+        #search{
+            filter: invert(1);
+
+        }
+        #section-1{
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-content: center;
+                height: 45vh;
+                color: white;
+
+            }
+            #section-1 h1{
+                text-transform: capitalize;
+                font-size: 3rem;
+                font-weight: ;
+            
+            
+
